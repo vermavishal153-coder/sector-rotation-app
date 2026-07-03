@@ -1,0 +1,10 @@
+streamlit>=1.35
+pandas>=2.0
+numpy>=1.26
+plotly>=5.20
+requests>=2.31
+smartapi-python>=1.4.8
+pyotp>=2.9
+websocket-client>=1.7
+logzero>=1.7
+feedparser>=6.0
